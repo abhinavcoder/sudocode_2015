@@ -1,0 +1,8 @@
+at spy pos 410 323 :: 19 333 432
+ our radius : 29 opp radius : 19 army moving to 333 432
+radius updated after moving army :: 29
+at spy pos 447 336 :: 13 338 432
+ our radius : 39 opp radius : 13 army moving to 338 432
+radius updated after moving army :: 39
+at spy pos 567 402 :: 20 426 567
+at spy pos 294 416 :: 0 0 0
